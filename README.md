@@ -1,2 +1,3 @@
-# hexidecimal-converter
-Command line utility - Hexidecimal converter -- written in Go
+# Go hexidecimal-converter
+add hexidecimals values as arguments and watch the magic
+![Alt text](hexconv.gif)
